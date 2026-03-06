@@ -4,7 +4,8 @@ public class Main {
 
         conta.depositar(500);
         System.out.println(conta.getSaldo());
-        conta.sacar(20);
+        conta.sacar(256);
         System.out.println(conta.getSaldo());
     }
 }
+
